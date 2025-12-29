@@ -2,15 +2,15 @@
 
 ## 🖥️ TERMINAL SESSION
 ```bash
-┌──(pranks㉿matrix)-[~]
+┌──(CYGNOD㉿matrix)-[~]
 └─$ whoami
 CYGNOD
 
-┌──(pranks㉿matrix)-[~]
+┌──(CYGNOD㉿matrix)-[~]
 └─$ role
 Cybersecurity | Ethical Hacking | Security Research
 
-┌──(pranks㉿matrix)-[~]
+┌──(CYGNOD㉿matrix)-[~]
 └─$ status
 Learning • Testing • Securing
 ````
